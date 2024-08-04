@@ -11,15 +11,14 @@ We can answer many questions from the data such as
 5. Which country spends the most amount on music?
    
 
-![Database Schema](path_to_image/MusicDatabaseSchema.png) 
+![Database Schema](https://github.com/arunnandam/SQL/blob/main/Music_Store_Analysis/images/MusicDatabaseSchema.png)) 
 
 ## Database Schema
 Here is the detailed information about each table.
-![Data](Find how much amount spent by each customer on artists)
+![Data](https://github.com/arunnandam/SQL/blob/main/Music_Store_Analysis/images/data_info.png))
 
 ## Project Structure
 - `sql_scripts/`: Contains all SQL queries used in the analysis.
-- `reports/`: Output reports generated from the analysis.
 - `data/`: Placeholder for sample data if available.
 - `images/`: Contains images like the database schema.
 
