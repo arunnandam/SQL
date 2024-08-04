@@ -20,7 +20,7 @@ Here is the detailed information about each table.
 
 ## Project Structure
 - `sql_scripts/`: Contains all SQL queries used in the analysis.
-- `data/`: Placeholder for sample data if available.
+- `data/`: Contains data of all tables.
 - `images/`: Contains images like the database schema.
 
 ## Key Insights:
@@ -32,8 +32,9 @@ Here is the detailed information about each table.
 
 ## Recommendations
 1. Spending Patterns
-   -
+   - Implementing target campaigns in Denmark and other countries with fewer sales. Also offering promotions and discounts on the music can help to improve sales.
 2. Artistic Dominance
+   - Enhancing the visibility of the best music like Rock with the artist by creating concerts, and offering combined discounts on multiple genres will improve sales. 
 
    
 ## How to Use
@@ -41,6 +42,6 @@ Here is the detailed information about each table.
 2. Run the SQL scripts in `sql_scripts/` in a PostgreSQL environment.
 3. Review the output in the `reports/` directory.
 
-## Contact]
+## Contact for collaboration and modifications
 - [Email](mailto:naarku30@gmail.com)
 - [LinkedIn](https://linkedin.com/in/arunkumar-nandam)
