@@ -1,7 +1,7 @@
 # SQL Music Store Analysis
 
 ## Overview
-This project involves analyzing a music store database using PostgreSQL. The database contains 11 tables, including information about artists, albums, tracks, genres, customers, invoices, and employees. Through this project, I aim to extract meaningful insights from the data to understand customer preferences, identify top-selling products, and evaluate sales performance.
+This project involves analyzing a music store database using PostgreSQL and Power BI. The database contains 11 tables, including information about artists, albums, tracks, genres, customers, invoices, and employees. Through this project, I aim to extract meaningful insights from the data to understand customer preferences, identify top-selling products, and evaluate sales performance.
 
 We can answer many questions from the data such as 
 1. Most popular music Genre for each country?
@@ -22,6 +22,12 @@ Here is the detailed information about each table.
 - `sql_scripts/`: Contains all SQL queries used in the analysis.
 - `data/`: Contains data of all tables.
 - `images/`: Contains images like the database schema.
+- `reports/`: Contains dashboard files.
+
+## Power BI 
+Developed a Power BI dashboard that helps to analyze all the sales information across slicers such as genre, album, country, and state. The dashboard provides information about total sales and each customer's sales. There are visualization charts that specify the sales across countries and genres.
+
+![Dashboard](https://github.com/arunnandam/SQL/blob/main/Music_Store_Analysis/images/dashboard_preview.png)
 
 ## Key Insights:
 1. Top customers are spending an average of $85 on music whereas the Czech Republic is spending more on music with $144 and Denmark customers are spending less at $37
