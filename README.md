@@ -1,6 +1,6 @@
-# This is the SQL repository of my Analysis on various Datasets.
+# This is the SQL repository of my Analysis of various Datasets.
 
-1. ## [Restaurants Data](https://github.com/arunnandam/SQL/tree/main/Restaurant_Orders_MySQL)
-2. ## [Music Store Data](https://github.com/arunnandam/SQL/tree/main/Music_Store_Analysis)
+1. ## [Music Store Data](https://github.com/arunnandam/SQL/tree/main/Music_Store_Analysis)
+2. ## [Restaurants Data](https://github.com/arunnandam/SQL/tree/main/Restaurant_Orders_MySQL)
 
-Thank you, feel free to contact for any modifications or contribution to these projects.
+Thank you, feel free to contact me for any modifications or contributions to these projects.
