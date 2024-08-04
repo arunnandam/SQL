@@ -15,6 +15,8 @@ We can answer many questions from the data such as
 
 ## Database Schema
 Here is the detailed information about each table.
+
+
 ![Data](https://github.com/arunnandam/SQL/blob/main/Music_Store_Analysis/images/data_info.png)
 
 ## Project Structure
