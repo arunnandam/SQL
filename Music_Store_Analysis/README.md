@@ -16,7 +16,6 @@ We can answer many questions from the data such as
 ## Database Schema
 Here is the detailed information about each table.
 
-
 ![Data](https://github.com/arunnandam/SQL/blob/main/Music_Store_Analysis/images/data_info.png)
 
 ## Project Structure
@@ -24,7 +23,24 @@ Here is the detailed information about each table.
 - `data/`: Placeholder for sample data if available.
 - `images/`: Contains images like the database schema.
 
+## Key Insights:
+1. Top customers are spending an average of $85 on music whereas the Czech Republic is spending more on music with $144 and Denmark customers are spending less at $37
+2. The best-selling genre in all countries is Rock except Argentina. It sells more Alternative and Punk genres.
+3. Customers are spending more on Artist Queen
+4. Rock is the best genre and Led Zeppelin is the artist with the most number of Rock songs.
+5. The USA has the most number of sales.
+
+## Recommendations
+1. Spending Patterns
+   -
+2. Artistic Dominance
+
+   
 ## How to Use
 1. Clone the repository.
 2. Run the SQL scripts in `sql_scripts/` in a PostgreSQL environment.
 3. Review the output in the `reports/` directory.
+
+## Contact]
+- [Email](mailto:naarku30@gmail.com)
+- [LinkedIn](https://linkedin.com/in/arunkumar-nandam)
